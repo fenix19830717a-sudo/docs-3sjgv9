@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-wmq224.date-me.pro/sitemap.xml
